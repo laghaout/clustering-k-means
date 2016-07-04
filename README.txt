@@ -1,0 +1,1 @@
+This Python program performs the unsupervised classification of a set of simple images.
